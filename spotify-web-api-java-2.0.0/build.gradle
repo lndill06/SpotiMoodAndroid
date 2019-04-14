@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('spotify-web-api-java-2.0.0.jar'))

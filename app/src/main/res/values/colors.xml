@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#47fb84</color>          <!--green/cyan-->
+    <color name="colorPrimaryDark">#2E2E2E</color>      <!--dark green/cyan-->
+    <color name="colorAccent">#D81B60</color>           <!--pink-->
+</resources>

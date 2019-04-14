@@ -1,0 +1,1 @@
+include ':app', ':spotify-auth-release-1.1.0', ':paralleldots-1.0.2', ':json-simple-1.1', ':commons-io-2.4', ':okhttp-3.10.0', ':okio-1.14.0', ':paralleldots-1.0.1', ':commons-codec-1.10', ':commons-logging-1.2', ':gson-2.8.2', ':httpclient-4.5.5', ':httpcore-4.4.9', ':nv-i18n-1.22', ':spotify-web-api-java-2.0.0'
